@@ -14,3 +14,7 @@ Branches would help by providing more freedom and flexibility. They also help in
 
 5. How do the diagrams help you visualize the branch structure?
 They help in identifying detached heads.
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging 2 branches together helps in easy maintenance of codes developed by different people.
+Diagrammatic representation helps in identifying unreachable commits.
