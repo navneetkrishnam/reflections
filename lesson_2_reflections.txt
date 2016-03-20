@@ -5,3 +5,6 @@ This needs to be done to maintain files on the local machine.
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area provides a temporary space before committing a particular piece of code on to the repository.
 The working directory is where the code is being developed.
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+With the use of "git add" command, we can ensure one commit per logical change. This adds the file to the staging area from where we can commit the files to the repository.
