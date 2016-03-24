@@ -18,3 +18,7 @@ They help in identifying detached heads.
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging 2 branches together helps in easy maintenance of codes developed by different people.
 Diagrammatic representation helps in identifying unreachable commits.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pro of doing Git's automatic merging is that the code is always integrated and ready for deployment.
+Con of doing Git's automatic merging is that the merging happens irrespective of whether it is necessary or not.
