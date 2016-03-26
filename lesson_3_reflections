@@ -3,3 +3,8 @@ I would want to use a remote repo when there are multiple developers working on 
 
 2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 This will help in pulling only the necessary changes rather than every change made on the Git.
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks clones GitHub repos in GitHub.
+Clones replicate GitHub repos in Local.
+Branches are a part of repos.
